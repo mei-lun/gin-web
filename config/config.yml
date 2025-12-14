@@ -1,0 +1,9 @@
+app:
+  name: exhcangeAPP
+  port: 8080
+database:
+  host: localhost
+  port: 3306
+  user: meilun
+  password: secretpassword
+  name: exchange_db
